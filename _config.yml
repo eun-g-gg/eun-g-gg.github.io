@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: 은지 # the main title
 
-tagline: 여보 사랑해 # it will display as the sub-title
+tagline: 댕쩌는 프론트엔드 개발자 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   프론트엔드 김은지 입니다.
