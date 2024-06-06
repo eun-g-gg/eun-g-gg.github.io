@@ -19,11 +19,11 @@ title: 은지 # the main title
 tagline: 여보 사랑해 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  dev, backend, devops, algorithm, infra
+  프론트엔드 김은지 입니다.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://jaesin463.github.io"
+url: "https://eun-g-gg.github.io"
 
 github:
   username: eun-g-gg # change to your github username
