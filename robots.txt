@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://eun-g-g.github.io/sitemap.xml
+Sitemap: https://eun-g-gg.github.io/sitemap.xml
